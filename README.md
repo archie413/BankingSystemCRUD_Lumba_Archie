@@ -54,7 +54,7 @@ The database follows a relational design containing three main tables, structure
 4. **Run the Application:**
    * Right-click on `CustomerAccountWindow.java` (or your main class) and select **Run File**.
 
-
+https://drive.google.com/file/d/11oa9BIwiDBVSkWQHlAMYDIakHkN01YC7/view?usp=sharing
 
 <img width="1219" height="1109" alt="image" src="https://github.com/user-attachments/assets/5c7a06e8-0539-44b1-8da7-f2cfa6ff5f1a" />
 <img width="1231" height="1119" alt="image" src="https://github.com/user-attachments/assets/948b9135-fc36-4a60-81cb-31f6d365096d" />
