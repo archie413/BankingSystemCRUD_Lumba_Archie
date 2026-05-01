@@ -1,6 +1,6 @@
 # Simple Banking System with CRUD Operations
 
-**Developer:** [Your Last Name], [Your First Name]  
+**Developer:** Lumba, Archie N. 
 **Course/Instructor:** Engr. Jamie Eduardo Rosal, MSCPE  
 
 ## 📖 System Description
