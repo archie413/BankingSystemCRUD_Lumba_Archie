@@ -56,6 +56,7 @@ The database follows a relational design containing three main tables, structure
 
 https://drive.google.com/file/d/11oa9BIwiDBVSkWQHlAMYDIakHkN01YC7/view?usp=sharing
 
+<img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/6427028a-2f44-4e62-ba1f-0c8d0d7d6522" />
 <img width="1219" height="1109" alt="image" src="https://github.com/user-attachments/assets/5c7a06e8-0539-44b1-8da7-f2cfa6ff5f1a" />
 <img width="1231" height="1119" alt="image" src="https://github.com/user-attachments/assets/948b9135-fc36-4a60-81cb-31f6d365096d" />
 <img width="1227" height="1120" alt="image" src="https://github.com/user-attachments/assets/3eddb6d3-028f-4fdf-9c13-e2a5ae5b90a7" />
