@@ -1,7 +1,4 @@
-# Simple Banking System with CRUD Operations
-
-**Developer:** Lumba, Archie N. 
-**Course/Instructor:** Engr. Jamie Eduardo Rosal, MSCPE  
+# Simple Banking System with CRUD Operations  
 
 ## 📖 System Description
 The Simple Banking Application is a Java Swing-based desktop application designed to simulate basic banking operations. It is integrated with a MySQL database to efficiently manage customer data, account balances, and transaction histories. 
